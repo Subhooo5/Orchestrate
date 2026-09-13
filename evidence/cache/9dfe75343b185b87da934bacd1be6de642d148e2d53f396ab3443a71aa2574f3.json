@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary",
+        "kind": "decrease",
+        "amount": "ZAR 31889",
+        "multiplier": null,
+        "effectiveFrom": null
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1065,
+    "outputTokens": 1086,
+    "temperatureHonoured": false
+  }
+}

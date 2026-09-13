@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_12575",
+        "field": "amount",
+        "value": "increased by 12% (new amount applies from next rent payment)",
+        "effectiveFrom": "2025-11-02",
+        "confidence": 0.83
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1014,
+    "outputTokens": 1872,
+    "temperatureHonoured": false
+  }
+}

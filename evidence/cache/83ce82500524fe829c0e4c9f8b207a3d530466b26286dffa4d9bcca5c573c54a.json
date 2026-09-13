@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_17055",
+        "field": "amount",
+        "value": "12% increase",
+        "effectiveFrom": "2025-11-02",
+        "confidence": 0.9
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 994,
+    "outputTokens": 2308,
+    "temperatureHonoured": false
+  }
+}

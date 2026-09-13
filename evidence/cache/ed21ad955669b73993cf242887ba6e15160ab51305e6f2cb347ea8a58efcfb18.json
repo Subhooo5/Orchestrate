@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary",
+        "kind": "decrease",
+        "amount": "USD 1731.60",
+        "multiplier": null,
+        "effectiveFrom": null
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1048,
+    "outputTokens": 1151,
+    "temperatureHonoured": false
+  }
+}

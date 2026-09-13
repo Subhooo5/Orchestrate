@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary - Greenfield Foods seasonal contract",
+        "kind": "suspend",
+        "amount": null,
+        "multiplier": null,
+        "effectiveFrom": "2024-02-28"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 974,
+    "outputTokens": 1285,
+    "temperatureHonoured": false
+  }
+}

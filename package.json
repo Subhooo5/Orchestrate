@@ -1,0 +1,27 @@
+{
+  "name": "buy-or-wait",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "HackerRank Orchestrate September 2026 - Buy or Wait? affordability decision agent",
+  "scripts": {
+    "start": "tsx --env-file-if-exists=../.env main.ts",
+    "typecheck": "tsc --noEmit",
+    "output": "tsx --env-file-if-exists=../.env main.ts",
+    "diagnostics": "tsx --env-file-if-exists=../.env main.ts --dev --verbose"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.2",
+    "csv-stringify": "^6.8.3",
+    "openai": "^7.15.0",
+    "zod": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}

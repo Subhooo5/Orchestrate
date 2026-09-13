@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary",
+        "kind": "increase",
+        "amount": "INR 84000",
+        "multiplier": null,
+        "effectiveFrom": "2025-05-15"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1072,
+    "outputTokens": 1794,
+    "temperatureHonoured": false
+  }
+}

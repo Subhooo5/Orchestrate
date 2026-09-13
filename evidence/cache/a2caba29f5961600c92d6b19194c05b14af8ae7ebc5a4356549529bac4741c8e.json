@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary_greenfield_foods",
+        "kind": "increase",
+        "amount": "EUR 2123",
+        "multiplier": null,
+        "effectiveFrom": "2025-05-15"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 965,
+    "outputTokens": 1541,
+    "temperatureHonoured": false
+  }
+}

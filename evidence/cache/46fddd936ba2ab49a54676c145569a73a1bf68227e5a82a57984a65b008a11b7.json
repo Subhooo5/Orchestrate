@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "quarterly_bonus",
+        "kind": "variable_unreliable",
+        "amount": null,
+        "multiplier": null,
+        "effectiveFrom": "2025-11-02"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1068,
+    "outputTokens": 1155,
+    "temperatureHonoured": false
+  }
+}

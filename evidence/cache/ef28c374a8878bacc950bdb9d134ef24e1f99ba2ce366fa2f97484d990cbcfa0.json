@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary",
+        "kind": "increase",
+        "amount": "IDR 42750000",
+        "multiplier": null,
+        "effectiveFrom": "2025-08-15"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1123,
+    "outputTokens": 707,
+    "temperatureHonoured": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 974,
+    "outputTokens": 1057,
+    "temperatureHonoured": false
+  }
+}

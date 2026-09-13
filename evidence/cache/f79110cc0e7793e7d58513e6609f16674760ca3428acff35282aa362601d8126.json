@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_20652",
+        "field": "amount",
+        "value": "+12%",
+        "effectiveFrom": "2026-07-02",
+        "confidence": 0.86
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1030,
+    "outputTokens": 2051,
+    "temperatureHonoured": false
+  }
+}

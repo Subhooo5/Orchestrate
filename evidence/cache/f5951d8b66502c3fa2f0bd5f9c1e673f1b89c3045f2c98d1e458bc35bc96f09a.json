@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "TaskSprint weekly earnings",
+        "kind": "variable_unreliable",
+        "amount": null,
+        "multiplier": null,
+        "effectiveFrom": "2026-01-06"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1080,
+    "outputTokens": 1412,
+    "temperatureHonoured": false
+  }
+}

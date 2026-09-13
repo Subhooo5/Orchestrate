@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "work_expense_reimbursement",
+        "kind": "suspend",
+        "amount": null,
+        "multiplier": null,
+        "effectiveFrom": "2025-02-01"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1074,
+    "outputTokens": 1539,
+    "temperatureHonoured": false
+  }
+}

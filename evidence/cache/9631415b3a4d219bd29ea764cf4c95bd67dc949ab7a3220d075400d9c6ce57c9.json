@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary",
+        "kind": "suspend",
+        "amount": null,
+        "multiplier": null,
+        "effectiveFrom": "2026-03-26"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1000,
+    "outputTokens": 1727,
+    "temperatureHonoured": false
+  }
+}

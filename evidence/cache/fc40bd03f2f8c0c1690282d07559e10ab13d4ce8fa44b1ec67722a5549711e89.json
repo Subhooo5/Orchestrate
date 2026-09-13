@@ -1,0 +1,29 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "household_employment",
+        "kind": "suspend",
+        "amount": null,
+        "multiplier": null,
+        "effectiveFrom": "2024-11-25T09:30:00Z"
+      },
+      {
+        "seriesCategory": "salary",
+        "kind": "decrease",
+        "amount": "EUR 1628",
+        "multiplier": null,
+        "effectiveFrom": "2024-11-25T09:30:00Z"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 996,
+    "outputTokens": 2096,
+    "temperatureHonoured": false
+  }
+}

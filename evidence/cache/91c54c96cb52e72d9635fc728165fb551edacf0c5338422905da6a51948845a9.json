@@ -1,0 +1,28 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_23481",
+        "field": "date",
+        "value": "2024-06-15",
+        "effectiveFrom": null,
+        "confidence": 0.7
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [
+      {
+        "eventId": "event_23481",
+        "amount": "214000",
+        "currency": "INR"
+      }
+    ],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1015,
+    "outputTokens": 2581,
+    "temperatureHonoured": false
+  }
+}

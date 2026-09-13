@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary",
+        "kind": "decrease",
+        "amount": "IDR 8618400",
+        "multiplier": null,
+        "effectiveFrom": "2024-02-27"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1031,
+    "outputTokens": 1284,
+    "temperatureHonoured": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary",
+        "kind": "increase",
+        "amount": "EUR 2717",
+        "multiplier": null,
+        "effectiveFrom": "2025-08-15"
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1011,
+    "outputTokens": 2561,
+    "temperatureHonoured": false
+  }
+}

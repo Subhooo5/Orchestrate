@@ -1,0 +1,20 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [
+      {
+        "eventId": "event_4535",
+        "amount": "15339.00",
+        "currency": "₹"
+      }
+    ],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1391,
+    "outputTokens": 565,
+    "temperatureHonoured": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_12836",
+        "field": "date",
+        "value": "2025-02-15",
+        "effectiveFrom": "2025-01-30T09:30:00Z",
+        "confidence": 0.92
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [
+      {
+        "eventId": "event_12836",
+        "amount": "31900",
+        "currency": "ZAR"
+      }
+    ],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1073,
+    "outputTokens": 2529,
+    "temperatureHonoured": false
+  }
+}

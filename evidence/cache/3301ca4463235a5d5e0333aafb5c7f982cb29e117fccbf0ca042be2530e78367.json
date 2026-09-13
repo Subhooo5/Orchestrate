@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_7571",
+        "field": "amount",
+        "value": "12% increase from prior rent, applied to the next payment",
+        "effectiveFrom": "2026-07-02",
+        "confidence": 0.95
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1050,
+    "outputTokens": 2125,
+    "temperatureHonoured": false
+  }
+}

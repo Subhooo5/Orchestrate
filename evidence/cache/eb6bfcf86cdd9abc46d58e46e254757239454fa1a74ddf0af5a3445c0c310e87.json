@@ -1,0 +1,35 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_13234",
+        "field": "date",
+        "value": "2026-07-15",
+        "effectiveFrom": "2026-06-22T09:30:00Z",
+        "confidence": 0.74
+      },
+      {
+        "eventId": "event_13234",
+        "field": "status",
+        "value": "scheduled",
+        "effectiveFrom": "2026-06-22T09:30:00Z",
+        "confidence": 0.62
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [
+      {
+        "eventId": "event_13234",
+        "amount": "864",
+        "currency": "USD"
+      }
+    ],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1049,
+    "outputTokens": 2758,
+    "temperatureHonoured": false
+  }
+}

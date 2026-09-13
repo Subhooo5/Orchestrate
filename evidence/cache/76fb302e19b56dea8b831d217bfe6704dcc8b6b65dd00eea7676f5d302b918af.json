@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_2857",
+        "field": "date",
+        "value": "2025-02-15",
+        "effectiveFrom": "2025-01-24T09:30:00Z",
+        "confidence": 0.78
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1020,
+    "outputTokens": 2382,
+    "temperatureHonoured": false
+  }
+}

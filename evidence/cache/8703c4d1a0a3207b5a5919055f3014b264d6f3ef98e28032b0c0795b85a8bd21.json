@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": [
+      {
+        "seriesCategory": "salary_arrears",
+        "kind": "variable_unreliable",
+        "amount": "INR 117000",
+        "multiplier": null,
+        "effectiveFrom": null
+      }
+    ]
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1030,
+    "outputTokens": 1731,
+    "temperatureHonoured": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "evidence": {
+    "amendments": [
+      {
+        "eventId": "event_18269",
+        "field": "status",
+        "value": "dispute_open",
+        "effectiveFrom": "2026-06-28T09:30:00Z",
+        "confidence": 0.76
+      }
+    ],
+    "cancellations": [],
+    "extractedAmounts": [],
+    "incomeSignals": []
+  },
+  "usage": {
+    "model": "gpt-5",
+    "inputTokens": 1013,
+    "outputTokens": 2123,
+    "temperatureHonoured": false
+  }
+}
